@@ -23,6 +23,11 @@
       "title": "LinkedIn",
       "icon": "fa-linkedin",
       "url": "https://www.linkedin.com/"
+    },
+    {
+      "title": "Facebook",
+      "icon": "fa-facebook",
+      "url": "https://www.facebook.com/kdesignsrwanda"
     }
   ]
 }
