@@ -1,13 +1,9 @@
 ---
 title: Home
 sections:
-  - type: heroblock
-    section_id: ''
-    component: HeroBlock
-    content: |-
-      ## **Kazana Designs**
-
-      A blog for designers by passion.
+  - type: contentblock
+    component: ContentBlock
+    content: '## **Kazana Designs**'
   - type: contentblock
     title: About
     section_id: about
@@ -27,6 +23,13 @@ sections:
         url: blog/index.html
     component: PostsBlock
     num_posts_displayed: 4
+  - type: heroblock
+    section_id: ''
+    component: HeroBlock
+    content: |-
+      ## **Kazana Designs**
+
+      A blog for designers by passion.
 menus:
   main:
     title: Home
