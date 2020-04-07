@@ -27,6 +27,11 @@
       "title": "Behance",
       "icon": "fa-behance",
       "url": "https://www.behance.net/"
+    },
+    {
+      "title": "Dribbble",
+      "icon": "fa-dribbble",
+      "url": "https://www.dribbble.com/"
     }
   ]
 }
