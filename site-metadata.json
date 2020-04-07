@@ -1,5 +1,5 @@
 {
-  "title": "Kazana Designs",
+  "title": "Kazana Designs' Blog",
   "layout_style": "overflow",
   "palette": "blue",
   "header": {
@@ -11,7 +11,7 @@
     "has_social": true
   },
   "footer": {
-    "content": "Copyright &copy Kazana Designs; All rights reserved.",
+    "content": "Copyright &copy 2020. Kazana Designs; All rights reserved.",
     "links": [
       {
         "text": "Made with Stackbit",
