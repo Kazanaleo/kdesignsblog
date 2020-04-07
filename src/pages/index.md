@@ -4,6 +4,7 @@ sections:
   - type: contentblock
     component: ContentBlock
     content: '## **Kazana Designs**'
+    section_id: hero
   - type: contentblock
     title: About
     section_id: about
