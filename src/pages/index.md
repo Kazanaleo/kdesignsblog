@@ -2,9 +2,12 @@
 title: Home
 sections:
   - type: heroblock
-    section_id: hero
+    section_id: ''
     component: HeroBlock
-    content: A blog for designers by passion.
+    content: |-
+      ## **Kazana Designs**
+
+      A blog for designers by passion.
   - type: contentblock
     title: About
     section_id: about
