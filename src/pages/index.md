@@ -15,7 +15,7 @@ sections:
     content: >-
       This is Kdesigns (Kazana Designs) blog where you can find different useful
       tips and trick about designing especially UI/UX designs. You can checkout
-      some of our works [here](kazanadesigns.carrd.co)
+      some of our works [here](http://kazanadesigns.carrd.co)
   - type: postsblock
     title: Recent Posts
     section_id: recent-posts
